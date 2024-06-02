@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sameer156
 - 👀 I’m interested in Data Science,Python and just getting better at this stuff
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on andy projects related to Data Science
+- 🤝🏼 I’m looking to collaborate on andy projects related to Data Science
 - 📫 How to reach me --- email- vashistsameer4@gmail.com
 
 <!---
